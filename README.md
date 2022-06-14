@@ -8,12 +8,12 @@
 - Press "go live" button
 
 ## Technology stack
--JavaScript 
+- JavaScript 
 I chose to write the front-end of this application using JavaScript, because I recently i had some experiance with this language.
 Main front-end functionality can be found at the [script.js](https://github.com/karolispranas/visma_task_frontend/blob/main/src/scripts/script.js),
 here all requests are sent to the API, as well as some layout functions.
 Functionality for the search bars filtering of the meeting table can be found at [search.js](https://github.com/karolispranas/visma_task_frontend/blob/main/src/scripts/search.js) file. 
--HTML/CSS
+- HTML/CSS
 HTML code of the web page can be found in [index.html](https://github.com/karolispranas/visma_task_frontend/blob/main/src/pages/index.html)
 
 ## Functionality
